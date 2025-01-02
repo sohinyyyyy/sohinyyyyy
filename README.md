@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohinyyyyy
+- 👋 Hi humans, I’m @sohinyyyyy
 - 👀 I’m interested in moblie application development
 - 🌱 I’m currently learning computer science and engineering
 - 💞️ I’m looking to collaborate on anything exciting
